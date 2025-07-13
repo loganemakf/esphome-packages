@@ -3,4 +3,3 @@ substitutions:
 
 esp32:
   board: ${board}
-  restore_from_flash: true
