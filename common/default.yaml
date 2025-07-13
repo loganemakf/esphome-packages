@@ -1,9 +1,9 @@
 # Default device packages
 packages:
   # Minimal config
-  minimal: !include minimal.yaml
+  # minimal: !include minimal.yaml
   # Home Assistant API
-  api: !include api.yaml
+  # api: !include api.yaml
   # Restart button
   restart: !include buttons/restart.yaml
   # Safe Mode button
